@@ -1,0 +1,14 @@
+input[type=text] {
+    width: 400px;
+}
+.container {
+    text-align: center;
+}
+
+h1, label {
+    color: white;
+}
+
+label {
+    margin-right: 20px;
+}
